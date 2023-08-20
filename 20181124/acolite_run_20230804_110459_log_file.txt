@@ -1,0 +1,387 @@
+2023-08-04 11:04:59: Run ID - 20230804_110459
+2023-08-04 11:04:59: Starting conversion of 1 scenes
+2023-08-04 11:04:59: Starting conversion of /Users/wuzhenghan/Downloads/S2B_MSIL1C_20181005T044659_N0206_R076_T44QQE_20181006T091548.SAFE
+2023-08-04 11:04:59: Importing metadata from L1C_T44QQE_A008253_20181005T045933
+2023-08-04 11:04:59: Reading per pixel geometry
+2023-08-04 11:05:00: Computing band average per detector geometry
+2023-08-04 11:05:00: Detector 1
+2023-08-04 11:05:00: Detector 2
+2023-08-04 11:05:00: Detector 3
+2023-08-04 11:05:01: Detector 4
+2023-08-04 11:05:01: Detector 5
+2023-08-04 11:05:09: Wrote raa (3815, 4082)
+2023-08-04 11:05:09: Wrote vza (3815, 4082)
+2023-08-04 11:05:09: Wrote sza (3815, 4082)
+2023-08-04 11:05:09: Writing geolocation lon/lat
+2023-08-04 11:05:11: (3815, 4082)
+2023-08-04 11:05:12: Wrote lon
+2023-08-04 11:05:12: (3815, 4082)
+2023-08-04 11:05:12: Wrote lat
+2023-08-04 11:05:12: Converting bands
+2023-08-04 11:05:14: Converting bands: Wrote rhot_442 ((3815, 4082))
+2023-08-04 11:05:17: Converting bands: Wrote rhot_492 ((3815, 4082))
+2023-08-04 11:05:20: Converting bands: Wrote rhot_559 ((3815, 4082))
+2023-08-04 11:05:23: Converting bands: Wrote rhot_665 ((3815, 4082))
+2023-08-04 11:05:25: Converting bands: Wrote rhot_704 ((3815, 4082))
+2023-08-04 11:05:28: Converting bands: Wrote rhot_739 ((3815, 4082))
+2023-08-04 11:05:31: Converting bands: Wrote rhot_780 ((3815, 4082))
+2023-08-04 11:05:34: Converting bands: Wrote rhot_833 ((3815, 4082))
+2023-08-04 11:05:36: Converting bands: Wrote rhot_864 ((3815, 4082))
+2023-08-04 11:05:39: Converting bands: Wrote rhot_943 ((3815, 4082))
+2023-08-04 11:05:42: Converting bands: Wrote rhot_1377 ((3815, 4082))
+2023-08-04 11:05:44: Converting bands: Wrote rhot_1610 ((3815, 4082))
+2023-08-04 11:05:47: Converting bands: Wrote rhot_2186 ((3815, 4082))
+2023-08-04 11:05:47: Conversion took 47.7 seconds
+2023-08-04 11:05:47: Created /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L1R.nc
+2023-08-04 11:05:51: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L1R_rgb_rhot.png
+2023-08-04 11:05:52: Running acolite for /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L1R.nc
+2023-08-04 11:05:52: Using DSF atmospheric correction
+2023-08-04 11:05:52: Processing with 49 tiles (7x7 tiles of 600x600 pixels)
+2023-08-04 11:05:52: Writing lon
+2023-08-04 11:05:52: Wrote lon
+2023-08-04 11:05:52: Writing lat
+2023-08-04 11:05:53: Wrote lat
+2023-08-04 11:05:53: Writing sza
+2023-08-04 11:05:53: Wrote sza
+2023-08-04 11:05:53: Writing vza
+2023-08-04 11:05:53: Wrote vza
+2023-08-04 11:05:53: Writing raa
+2023-08-04 11:05:53: Wrote raa
+2023-08-04 11:05:53: Loading LUTs
+2023-08-04 11:05:53: romix+rsky_t
+2023-08-04 11:05:53: True
+2023-08-04 11:05:54: Loading LUTs took 1.3 s
+2023-08-04 11:05:54: dsf_spectrum_option dark_list not configured, falling back to darkest
+2023-08-04 11:05:54: 1
+2023-08-04 11:05:54: rhot_442
+2023-08-04 11:05:55: S2B_MSI/B1 ACOLITE-LUT-202110-MOD1 took 0.002s (RevLUT)
+2023-08-04 11:05:55: S2B_MSI/B1 ACOLITE-LUT-202110-MOD2 took 0.001s (RevLUT)
+2023-08-04 11:05:55: 2
+2023-08-04 11:05:55: rhot_492
+2023-08-04 11:05:55: S2B_MSI/B2 ACOLITE-LUT-202110-MOD1 took 0.001s (RevLUT)
+2023-08-04 11:05:55: S2B_MSI/B2 ACOLITE-LUT-202110-MOD2 took 0.001s (RevLUT)
+2023-08-04 11:05:55: 3
+2023-08-04 11:05:55: rhot_559
+2023-08-04 11:05:56: S2B_MSI/B3 ACOLITE-LUT-202110-MOD1 took 0.001s (RevLUT)
+2023-08-04 11:05:56: S2B_MSI/B3 ACOLITE-LUT-202110-MOD2 took 0.001s (RevLUT)
+2023-08-04 11:05:56: 4
+2023-08-04 11:05:56: rhot_665
+2023-08-04 11:05:56: S2B_MSI/B4 ACOLITE-LUT-202110-MOD1 took 0.001s (RevLUT)
+2023-08-04 11:05:56: S2B_MSI/B4 ACOLITE-LUT-202110-MOD2 took 0.001s (RevLUT)
+2023-08-04 11:05:56: 5
+2023-08-04 11:05:56: rhot_704
+2023-08-04 11:05:56: S2B_MSI/B5 ACOLITE-LUT-202110-MOD1 took 0.001s (RevLUT)
+2023-08-04 11:05:56: S2B_MSI/B5 ACOLITE-LUT-202110-MOD2 took 0.001s (RevLUT)
+2023-08-04 11:05:56: 6
+2023-08-04 11:05:56: rhot_739
+2023-08-04 11:05:57: S2B_MSI/B6 ACOLITE-LUT-202110-MOD1 took 0.001s (RevLUT)
+2023-08-04 11:05:57: S2B_MSI/B6 ACOLITE-LUT-202110-MOD2 took 0.001s (RevLUT)
+2023-08-04 11:05:57: 7
+2023-08-04 11:05:57: rhot_780
+2023-08-04 11:05:57: S2B_MSI/B7 ACOLITE-LUT-202110-MOD1 took 0.001s (RevLUT)
+2023-08-04 11:05:57: S2B_MSI/B7 ACOLITE-LUT-202110-MOD2 took 0.001s (RevLUT)
+2023-08-04 11:05:57: 8
+2023-08-04 11:05:57: rhot_833
+2023-08-04 11:05:58: S2B_MSI/B8 ACOLITE-LUT-202110-MOD1 took 0.001s (RevLUT)
+2023-08-04 11:05:58: S2B_MSI/B8 ACOLITE-LUT-202110-MOD2 took 0.001s (RevLUT)
+2023-08-04 11:05:58: 8A
+2023-08-04 11:05:58: rhot_864
+2023-08-04 11:05:58: S2B_MSI/B8A ACOLITE-LUT-202110-MOD1 took 0.001s (RevLUT)
+2023-08-04 11:05:58: S2B_MSI/B8A ACOLITE-LUT-202110-MOD2 took 0.001s (RevLUT)
+2023-08-04 11:05:58: Choosing best fitting model: min_drmsd (2 bands)
+2023-08-04 11:05:58: Computing RMSD for model ACOLITE-LUT-202110-MOD1
+2023-08-04 11:05:58: Computing RMSD for model ACOLITE-LUT-202110-MOD2
+2023-08-04 11:05:58: Selecting most common model for processing.
+2023-08-04 11:05:58: ACOLITE-LUT-202110-MOD1: 59.2%: mean aot of subset = 0.59
+2023-08-04 11:05:58: ACOLITE-LUT-202110-MOD2: 40.8%: mean aot of subset = 0.39
+2023-08-04 11:05:58: Selected ACOLITE-LUT-202110-MOD1, mean aot = 0.57
+2023-08-04 11:05:58: use_revlut
+2023-08-04 11:05:58: True
+2023-08-04 11:05:58: Wrote rhot_442
+2023-08-04 11:05:58: Computing surface reflectance
+2023-08-04 11:05:58: 1
+2023-08-04 11:05:58: 442
+2023-08-04 11:05:58: 0.998
+2023-08-04 11:05:58: Interpolating tiles
+2023-08-04 11:06:01: Interpolating tiles for rhorc
+2023-08-04 11:06:02: Wrote rhorc_442
+2023-08-04 11:06:02: Wrote rhos_442
+2023-08-04 11:06:02: S2B_MSI/B1 took 3.8s (RevLUT)
+2023-08-04 11:06:02: Wrote rhot_492
+2023-08-04 11:06:02: Computing surface reflectance
+2023-08-04 11:06:02: 2
+2023-08-04 11:06:02: 492
+2023-08-04 11:06:02: 0.983
+2023-08-04 11:06:02: Interpolating tiles
+2023-08-04 11:06:04: Interpolating tiles for rhorc
+2023-08-04 11:06:06: Wrote rhorc_492
+2023-08-04 11:06:06: Wrote rhos_492
+2023-08-04 11:06:06: S2B_MSI/B2 took 3.6s (RevLUT)
+2023-08-04 11:06:06: Wrote rhot_559
+2023-08-04 11:06:06: Computing surface reflectance
+2023-08-04 11:06:06: 3
+2023-08-04 11:06:06: 559
+2023-08-04 11:06:06: 0.933
+2023-08-04 11:06:06: Interpolating tiles
+2023-08-04 11:06:08: Interpolating tiles for rhorc
+2023-08-04 11:06:10: Wrote rhorc_559
+2023-08-04 11:06:10: Wrote rhos_559
+2023-08-04 11:06:10: S2B_MSI/B3 took 3.7s (RevLUT)
+2023-08-04 11:06:10: Wrote rhot_665
+2023-08-04 11:06:10: Computing surface reflectance
+2023-08-04 11:06:10: 4
+2023-08-04 11:06:10: 665
+2023-08-04 11:06:10: 0.961
+2023-08-04 11:06:10: Interpolating tiles
+2023-08-04 11:06:12: Interpolating tiles for rhorc
+2023-08-04 11:06:13: Wrote rhorc_665
+2023-08-04 11:06:13: Wrote rhos_665
+2023-08-04 11:06:13: S2B_MSI/B4 took 3.6s (RevLUT)
+2023-08-04 11:06:14: Wrote rhot_704
+2023-08-04 11:06:14: Computing surface reflectance
+2023-08-04 11:06:14: 5
+2023-08-04 11:06:14: 704
+2023-08-04 11:06:14: 0.953
+2023-08-04 11:06:14: Interpolating tiles
+2023-08-04 11:06:16: Interpolating tiles for rhorc
+2023-08-04 11:06:17: Wrote rhorc_704
+2023-08-04 11:06:17: Wrote rhos_704
+2023-08-04 11:06:17: S2B_MSI/B5 took 3.7s (RevLUT)
+2023-08-04 11:06:17: Wrote rhot_739
+2023-08-04 11:06:17: Computing surface reflectance
+2023-08-04 11:06:17: 6
+2023-08-04 11:06:17: 739
+2023-08-04 11:06:17: 0.954
+2023-08-04 11:06:17: Interpolating tiles
+2023-08-04 11:06:19: Interpolating tiles for rhorc
+2023-08-04 11:06:21: Wrote rhorc_739
+2023-08-04 11:06:21: Wrote rhos_739
+2023-08-04 11:06:21: S2B_MSI/B6 took 3.6s (RevLUT)
+2023-08-04 11:06:21: Wrote rhot_780
+2023-08-04 11:06:21: Computing surface reflectance
+2023-08-04 11:06:21: 7
+2023-08-04 11:06:21: 780
+2023-08-04 11:06:21: 0.987
+2023-08-04 11:06:21: Interpolating tiles
+2023-08-04 11:06:23: Interpolating tiles for rhorc
+2023-08-04 11:06:25: Wrote rhorc_780
+2023-08-04 11:06:25: Wrote rhos_780
+2023-08-04 11:06:25: S2B_MSI/B7 took 3.7s (RevLUT)
+2023-08-04 11:06:25: Wrote rhot_833
+2023-08-04 11:06:25: Computing surface reflectance
+2023-08-04 11:06:25: 8
+2023-08-04 11:06:25: 833
+2023-08-04 11:06:25: 0.944
+2023-08-04 11:06:25: Interpolating tiles
+2023-08-04 11:06:27: Interpolating tiles for rhorc
+2023-08-04 11:06:28: Wrote rhorc_833
+2023-08-04 11:06:29: Wrote rhos_833
+2023-08-04 11:06:29: S2B_MSI/B8 took 3.6s (RevLUT)
+2023-08-04 11:06:29: Wrote rhot_864
+2023-08-04 11:06:29: Computing surface reflectance
+2023-08-04 11:06:29: 8A
+2023-08-04 11:06:29: 864
+2023-08-04 11:06:29: 0.997
+2023-08-04 11:06:29: Interpolating tiles
+2023-08-04 11:06:31: Interpolating tiles for rhorc
+2023-08-04 11:06:32: Wrote rhorc_864
+2023-08-04 11:06:32: Wrote rhos_864
+2023-08-04 11:06:32: S2B_MSI/B8A took 3.7s (RevLUT)
+2023-08-04 11:06:33: Wrote rhot_943
+2023-08-04 11:06:33: Wrote rhot_1377
+2023-08-04 11:06:33: Wrote rhot_1610
+2023-08-04 11:06:33: Computing surface reflectance
+2023-08-04 11:06:33: 11
+2023-08-04 11:06:33: 1610
+2023-08-04 11:06:33: 0.963
+2023-08-04 11:06:33: Interpolating tiles
+2023-08-04 11:06:35: Interpolating tiles for rhorc
+2023-08-04 11:06:36: Wrote rhorc_1610
+2023-08-04 11:06:37: Wrote rhos_1610
+2023-08-04 11:06:37: S2B_MSI/B11 took 3.6s (RevLUT)
+2023-08-04 11:06:37: Wrote rhot_2186
+2023-08-04 11:06:37: Computing surface reflectance
+2023-08-04 11:06:37: 12
+2023-08-04 11:06:37: 2186
+2023-08-04 11:06:37: 0.925
+2023-08-04 11:06:37: Interpolating tiles
+2023-08-04 11:06:39: Interpolating tiles for rhorc
+2023-08-04 11:06:40: Wrote rhorc_2186
+2023-08-04 11:06:40: Wrote rhos_2186
+2023-08-04 11:06:40: S2B_MSI/B12 took 3.6s (RevLUT)
+2023-08-04 11:06:40: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R.nc
+2023-08-04 11:06:41: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_sza.tif
+2023-08-04 11:06:41: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_vza.tif
+2023-08-04 11:06:42: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_raa.tif
+2023-08-04 11:06:42: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhot_442.tif
+2023-08-04 11:06:43: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhorc_442.tif
+2023-08-04 11:06:43: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhos_442.tif
+2023-08-04 11:06:43: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhot_492.tif
+2023-08-04 11:06:44: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhorc_492.tif
+2023-08-04 11:06:44: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhos_492.tif
+2023-08-04 11:06:44: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhot_559.tif
+2023-08-04 11:06:45: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhorc_559.tif
+2023-08-04 11:06:45: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhos_559.tif
+2023-08-04 11:06:45: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhot_665.tif
+2023-08-04 11:06:46: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhorc_665.tif
+2023-08-04 11:06:46: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhos_665.tif
+2023-08-04 11:06:47: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhot_704.tif
+2023-08-04 11:06:47: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhorc_704.tif
+2023-08-04 11:06:47: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhos_704.tif
+2023-08-04 11:06:48: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhot_739.tif
+2023-08-04 11:06:48: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhorc_739.tif
+2023-08-04 11:06:48: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhos_739.tif
+2023-08-04 11:06:49: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhot_780.tif
+2023-08-04 11:06:49: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhorc_780.tif
+2023-08-04 11:06:49: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhos_780.tif
+2023-08-04 11:06:50: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhot_833.tif
+2023-08-04 11:06:50: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhorc_833.tif
+2023-08-04 11:06:50: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhos_833.tif
+2023-08-04 11:06:51: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhot_864.tif
+2023-08-04 11:06:51: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhorc_864.tif
+2023-08-04 11:06:52: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhos_864.tif
+2023-08-04 11:06:52: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhot_943.tif
+2023-08-04 11:06:52: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhot_1377.tif
+2023-08-04 11:06:53: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhot_1610.tif
+2023-08-04 11:06:53: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhorc_1610.tif
+2023-08-04 11:06:53: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhos_1610.tif
+2023-08-04 11:06:54: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhot_2186.tif
+2023-08-04 11:06:54: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhorc_2186.tif
+2023-08-04 11:06:54: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rhos_2186.tif
+2023-08-04 11:06:57: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2R_rgb_rhos.png
+2023-08-04 11:06:57: L2W keeping data in memory: False
+2023-08-04 11:06:57: Computing non water threshold mask.
+2023-08-04 11:06:57: Computing non water threshold mask from rhot_1610 > 0.0215.
+2023-08-04 11:06:59: Computing cirrus mask.
+2023-08-04 11:06:59: Computing cirrus mask from rhot_1377 > 0.005.
+2023-08-04 11:07:00: Computing TOA limit mask.
+2023-08-04 11:07:00: Computing TOA limit mask from rhot_442 > 0.3.
+2023-08-04 11:07:02: Computing TOA limit mask from rhot_492 > 0.3.
+2023-08-04 11:07:03: Computing TOA limit mask from rhot_559 > 0.3.
+2023-08-04 11:07:04: Computing TOA limit mask from rhot_665 > 0.3.
+2023-08-04 11:07:06: Computing TOA limit mask from rhot_704 > 0.3.
+2023-08-04 11:07:07: Computing TOA limit mask from rhot_739 > 0.3.
+2023-08-04 11:07:08: Computing TOA limit mask from rhot_780 > 0.3.
+2023-08-04 11:07:10: Computing TOA limit mask from rhot_833 > 0.3.
+2023-08-04 11:07:11: Computing TOA limit mask from rhot_864 > 0.3.
+2023-08-04 11:07:13: Computing TOA limit mask from rhot_943 > 0.3.
+2023-08-04 11:07:14: Computing TOA limit mask from rhot_1377 > 0.3.
+2023-08-04 11:07:15: Computing TOA limit mask from rhot_1610 > 0.3.
+2023-08-04 11:07:17: Computing TOA limit mask from rhot_2186 > 0.3.
+2023-08-04 11:07:18: Computing negative reflectance mask.
+2023-08-04 11:07:18: Computing negative reflectance mask from rhos_442.
+2023-08-04 11:07:18: Computing negative reflectance mask from rhos_492.
+2023-08-04 11:07:18: Computing negative reflectance mask from rhos_559.
+2023-08-04 11:07:18: Computing negative reflectance mask from rhos_665.
+2023-08-04 11:07:18: Computing negative reflectance mask from rhos_704.
+2023-08-04 11:07:18: Computing negative reflectance mask from rhos_739.
+2023-08-04 11:07:18: Computing negative reflectance mask from rhos_780.
+2023-08-04 11:07:18: Computing negative reflectance mask from rhos_833.
+2023-08-04 11:07:18: Computing negative reflectance mask from rhos_864.
+2023-08-04 11:07:18: Copying datasets from L2R.
+2023-08-04 11:07:18: Copying lon, base dataset lon
+2023-08-04 11:07:19: Writing lon
+2023-08-04 11:07:19: Copying lat, base dataset lat
+2023-08-04 11:07:19: Writing lat
+2023-08-04 11:07:19: Copying rhorc_442, base dataset rhorc_442
+2023-08-04 11:07:19: Writing rhorc_442
+2023-08-04 11:07:19: Copying Rrs_442, base dataset rhos_442
+2023-08-04 11:07:19: Writing Rrs_442
+2023-08-04 11:07:19: Copying rhorc_492, base dataset rhorc_492
+2023-08-04 11:07:19: Writing rhorc_492
+2023-08-04 11:07:19: Copying Rrs_492, base dataset rhos_492
+2023-08-04 11:07:19: Writing Rrs_492
+2023-08-04 11:07:20: Copying rhorc_559, base dataset rhorc_559
+2023-08-04 11:07:20: Writing rhorc_559
+2023-08-04 11:07:20: Copying Rrs_559, base dataset rhos_559
+2023-08-04 11:07:20: Writing Rrs_559
+2023-08-04 11:07:20: Copying rhorc_665, base dataset rhorc_665
+2023-08-04 11:07:20: Writing rhorc_665
+2023-08-04 11:07:20: Copying Rrs_665, base dataset rhos_665
+2023-08-04 11:07:20: Writing Rrs_665
+2023-08-04 11:07:20: Copying rhorc_704, base dataset rhorc_704
+2023-08-04 11:07:20: Writing rhorc_704
+2023-08-04 11:07:20: Copying Rrs_704, base dataset rhos_704
+2023-08-04 11:07:20: Writing Rrs_704
+2023-08-04 11:07:21: Copying rhorc_739, base dataset rhorc_739
+2023-08-04 11:07:21: Writing rhorc_739
+2023-08-04 11:07:21: Copying Rrs_739, base dataset rhos_739
+2023-08-04 11:07:21: Writing Rrs_739
+2023-08-04 11:07:21: Copying rhorc_780, base dataset rhorc_780
+2023-08-04 11:07:21: Writing rhorc_780
+2023-08-04 11:07:21: Copying Rrs_780, base dataset rhos_780
+2023-08-04 11:07:21: Writing Rrs_780
+2023-08-04 11:07:21: Copying rhorc_833, base dataset rhorc_833
+2023-08-04 11:07:21: Writing rhorc_833
+2023-08-04 11:07:21: Copying Rrs_833, base dataset rhos_833
+2023-08-04 11:07:21: Writing Rrs_833
+2023-08-04 11:07:22: Copying rhorc_864, base dataset rhorc_864
+2023-08-04 11:07:22: Writing rhorc_864
+2023-08-04 11:07:22: Copying Rrs_864, base dataset rhos_864
+2023-08-04 11:07:22: Writing Rrs_864
+2023-08-04 11:07:22: Copying rhorc_1610, base dataset rhorc_1610
+2023-08-04 11:07:22: Writing rhorc_1610
+2023-08-04 11:07:22: Copying Rrs_1610, base dataset rhos_1610
+2023-08-04 11:07:22: Writing Rrs_1610
+2023-08-04 11:07:22: Copying rhorc_2186, base dataset rhorc_2186
+2023-08-04 11:07:22: Writing rhorc_2186
+2023-08-04 11:07:22: Copying Rrs_2186, base dataset rhos_2186
+2023-08-04 11:07:23: Writing Rrs_2186
+2023-08-04 11:07:23: Writing TUR_Nechad2016_665
+2023-08-04 11:07:23: Writing SPM_Nechad2016_665
+2023-08-04 11:07:24: Writing chl_oc2
+2023-08-04 11:07:24: Writing chl_oc3
+2023-08-04 11:07:25: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W.nc
+2023-08-04 11:07:25: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_442.tif
+2023-08-04 11:07:25: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_442.tif
+2023-08-04 11:07:26: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_492.tif
+2023-08-04 11:07:26: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_492.tif
+2023-08-04 11:07:26: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_559.tif
+2023-08-04 11:07:27: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_559.tif
+2023-08-04 11:07:27: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_665.tif
+2023-08-04 11:07:27: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_665.tif
+2023-08-04 11:07:28: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_704.tif
+2023-08-04 11:07:28: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_704.tif
+2023-08-04 11:07:29: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_739.tif
+2023-08-04 11:07:29: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_739.tif
+2023-08-04 11:07:29: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_780.tif
+2023-08-04 11:07:30: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_780.tif
+2023-08-04 11:07:30: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_833.tif
+2023-08-04 11:07:30: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_833.tif
+2023-08-04 11:07:31: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_864.tif
+2023-08-04 11:07:31: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_864.tif
+2023-08-04 11:07:31: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_1610.tif
+2023-08-04 11:07:32: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_1610.tif
+2023-08-04 11:07:32: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_2186.tif
+2023-08-04 11:07:32: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_2186.tif
+2023-08-04 11:07:33: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_l2_flags.tif
+2023-08-04 11:07:33: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_TUR_Nechad2016_665.tif
+2023-08-04 11:07:33: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_SPM_Nechad2016_665.tif
+2023-08-04 11:07:34: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_chl_oc2.tif
+2023-08-04 11:07:34: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_chl_oc3.tif
+2023-08-04 11:07:36: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_442.png
+2023-08-04 11:07:37: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_442.png
+2023-08-04 11:07:39: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_492.png
+2023-08-04 11:07:41: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_492.png
+2023-08-04 11:07:42: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_559.png
+2023-08-04 11:07:44: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_559.png
+2023-08-04 11:07:45: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_665.png
+2023-08-04 11:07:47: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_665.png
+2023-08-04 11:07:49: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_704.png
+2023-08-04 11:07:50: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_704.png
+2023-08-04 11:07:52: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_739.png
+2023-08-04 11:07:53: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_739.png
+2023-08-04 11:07:55: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_780.png
+2023-08-04 11:07:56: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_780.png
+2023-08-04 11:07:58: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_833.png
+2023-08-04 11:07:59: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_833.png
+2023-08-04 11:08:01: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_864.png
+2023-08-04 11:08:03: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_864.png
+2023-08-04 11:08:04: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_1610.png
+2023-08-04 11:08:06: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_1610.png
+2023-08-04 11:08:07: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_rhorc_2186.png
+2023-08-04 11:08:09: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_Rrs_2186.png
+2023-08-04 11:08:11: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_TUR_Nechad2016_665.png
+2023-08-04 11:08:13: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_SPM_Nechad2016_665.png
+2023-08-04 11:08:14: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_chl_oc2.png
+2023-08-04 11:08:16: Wrote /Users/wuzhenghan/Downloads/20181005/S2B_MSI_2018_10_05_04_59_33_T44QQE_L2W_chl_oc3.png
